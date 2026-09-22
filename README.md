@@ -11,3 +11,5 @@ This is an independent product. It is not affiliated with, sponsored by, endorse
 ## Website
 
 GitHub Pages target: https://brunonaval.github.io/automacao-loterias-site/
+
+Pages deployment enabled on 2026-09-22.
