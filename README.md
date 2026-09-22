@@ -7,3 +7,7 @@ This repository is intentionally separate from the private extension source code
 ## Independence notice
 
 This is an independent product. It is not affiliated with, sponsored by, endorsed by, or operated by Caixa Econômica Federal.
+
+## Website
+
+GitHub Pages target: https://brunonaval.github.io/automacao-loterias-site/
